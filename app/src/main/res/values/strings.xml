@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Maestro</string>
+    <string name="Name">Name</string>
+    <string name="Artist">Artist</string>
+    <string name="TutorialUrl">Tutorial URL</string>
+    <string name="Duration">Duration [sec]</string>
+
+
+    <string name="Url">URL</string>
+</resources>
