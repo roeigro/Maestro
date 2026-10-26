@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="https://github.com/user-attachments/assets/8d594bdf-5477-435a-af6f-64de41a15367" />
+  <img width="150" src="https://github.com/user-attachments/assets/625fe787-4cc7-455f-ad62-a448539caa38" />
 </p>
 
 # Maestro - Personal Tutorial Tracker
@@ -28,9 +28,9 @@ Maestro was designed to solve this need, resulting in a functional, cloud-connec
 
 ### 📱 Screenshots
 <p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/27a4b9e4-098d-4c83-8881-c8fd39db86d4" />
-  <img width="250" src="https://github.com/user-attachments/assets/d0c5042b-f290-4f09-8ec2-608a9ce3dfd8" />
-  <img width="250" src="https://github.com/user-attachments/assets/ca64df46-7152-4a93-a3a7-a74e9fabfad3" />
+  <img width="250" src="https://github.com/user-attachments/assets/4dc1c233-ee40-493a-9f48-96cfbbb1def4" />
+  <img width="250" src="https://github.com/user-attachments/assets/5f0159dd-cb03-49ee-a578-673bf364fbaa" />
+  <img width="250" src="https://github.com/user-attachments/assets/cad12e76-e950-4921-95c3-011b74cf9c22" />
 </p>
 
 
