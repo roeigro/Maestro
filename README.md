@@ -24,7 +24,6 @@ Maestro was designed to solve this need, resulting in a functional, cloud-connec
 * **Language:** Java
 * **Platform:** Android SDK
 * **Backend:** Google Firebase
-* **External APIs:** YouTube Data API
 
 ### 📱 Screenshots
 <p align="center">
